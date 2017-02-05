@@ -1,5 +1,5 @@
 {
-  "name": "express",
+  "name": "defexpress",
   "version": "1.0.0",
   "description": "express.js to the test.",
   "main": "app.js",
@@ -16,5 +16,7 @@
     "url": "https://github.com/defilerc/express/issues"
   },
   "homepage": "https://github.com/defilerc/express#readme",
-  "dependencies": {}
+  "dependencies": {
+    "express": "^4.14.1"
+  }
 }
