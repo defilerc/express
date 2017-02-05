@@ -1,0 +1,20 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "express.js to the test.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/defilerc/express.git"
+  },
+  "author": "Konstantinos Athanasoglou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/defilerc/express/issues"
+  },
+  "homepage": "https://github.com/defilerc/express#readme",
+  "dependencies": {}
+}
